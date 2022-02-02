@@ -38,14 +38,7 @@ header {
   text-align: center;
   font-size: 18px;
   color: #fff;
-  display: flex;
-  column-gap: 15px;
 }
-.brand-name{
-  font-size: 3em;
-  color: #a0ea00;
-}
-
 .heading {
   font-size: 3em;
 }
@@ -147,7 +140,6 @@ header {
 .info-section {
   text-align: center;
   color: #fff;
-  margin-left: -45px;
 }
 
 .start-button {
